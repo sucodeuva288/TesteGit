@@ -1,1 +1,2 @@
 Exemplo de uso do git 
+Nova linha arquivo1
